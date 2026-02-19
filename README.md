@@ -1,6 +1,7 @@
 # 💫 About Me:
-I am a data professional with hands-on experience across Data Analytics, Data Engineering pipelines, and applied Data Science, currently pursuing B.Tech in Computer Science & Engineering.<br><br>I have worked with real-world datasets to clean, pre-process, analyze, and visualize data using Python, SQL, Pandas, NumPy, Matplotlib, and Power BI. My experience includes building interactive dashboards, performing exploratory data analysis, and developing end-to-end analytics workflows that transform raw data into meaningful insights.<br><br>On the engineering side, I have practical exposure to API-based data ingestion, automated data extraction, file handling, and structured data workflows, enabling me to understand data across its full lifecycle—from ingestion and storage to analysis and visualization.<br><br>My academic foundation in statistics, linear algebra, and machine learning basics, combined with hands-on projects and internships, allows me to approach problems with both analytical depth and engineering discipline.<br><br>I am actively seeking opportunities in Data Analytics, Data Engineering, and Data Science, where I can learn, grow, and contribute to data-driven decision-making. I enjoy solving real-world problems, collaborating with teams, and continuously improving my technical skill set.
-
+Data Analyst | Python • SQL • Power BI
+Building end-to-end data workflows & dashboards
+Exploring Data Engineering & Applied ML
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/akrishchaurasia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akrishchaurasia) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/chaurasiaakrish) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akrishchaurasia03@gmail.com) 
