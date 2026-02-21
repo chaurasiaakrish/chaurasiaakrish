@@ -1,7 +1,8 @@
 # 💫 About Me:
 Data Analyst | Python • SQL • Power BI
 
-Building end-to-end data workflows & dashboards
+Building end-to-end data workflows & dashboards.
+
 Exploring Data Engineering & Applied ML
 
 ## 🌐 Socials:
