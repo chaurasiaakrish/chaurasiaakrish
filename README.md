@@ -1,76 +1,53 @@
 # Hi 👋, I'm Akrish Chaurasia
 
-🎓 B.Tech Computer Science & Engineering Student (2027)
-
-📊 Data Analyst | Python | SQL | Power BI
-
-💡 Passionate about transforming raw data into actionable business insights through data cleaning, exploratory data analysis (EDA), dashboard development, and analytics projects.
+🎓 **B.Tech Computer Science & Engineering Student (Expected Grad: May 2027)**  
+📊 **Data Analyst** | Python | SQL | Power BI | Google Workspace  
+💡 Passionate about transforming high-volume raw data into decision-ready business insights through ETL pipelines, exploratory data analysis (EDA), and interactive dashboards.
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
-- 📈 Building end-to-end Data Analytics projects
-- 🐍 Proficient in Python for data analysis and automation
-- 🗄️ Working with SQL for querying and data manipulation
-- 📊 Creating interactive dashboards using Power BI and Google Sheets
-- 📚 Currently learning **DAX, ETL/ELT, and Data Engineering**
-- 🌱 Exploring Data Science and Machine Learning
+- 📈 **Data Engineering & ETL:** Building automated analytics pipelines handling **100,000+ records** and live API feeds.
+- 🗄️ **Querying & Modeling:** Executing optimized SQL queries and data masking for privacy compliance.
+- 📊 **Visual Analytics:** Developing interactive dashboards in Power BI and Google Sheets tracking critical business KPIs.
+- 🛠️ **Problem Solving:** 200+ DSA problems solved across LeetCode & CodeChef.
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-**Programming**
-- Python
-- SQL
-
-**Data Analytics**
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Power BI
-- Google Sheets
-- Excel
-
-**Tools**
-- Git
-- GitHub
-- Linux
-- Jupyter Notebook
-- VS Code
-- Google Colab
+- **Languages & Querying:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), SQL
+- **Analytics & BI Tools:** Power BI, Google Sheets, Excel, Jupyter Notebook, Google Colab
+- **Developer Tools & Version Control:** Git, GitHub, Linux, VS Code, REST APIs
 
 ---
 
-## 📂 Featured Projects
+### 📂 Featured Projects
 
-🏏 **Real-Time Cricket Match Analytics Pipeline**
-- Built an end-to-end analytics pipeline using Python, REST APIs, Pandas, and Matplotlib.
+* 🏏 **[Real-Time Cricket Match Analytics Pipeline](https://github.com/chaurasiaakrish/Real-Time-Cricket-Match-Analytics-Pipeline)**  
+  *Automated real-time sports performance tracking across live JSON feeds by constructing an end-to-end ETL pipeline using REST APIs, Pandas, and Matplotlib.*
 
-📦 **Supply Chain Analysis Dashboard**
-- Analyzed 2,500+ supply chain records and developed an interactive dashboard using Google Sheets.
+* 🛒 **[Retail Analytics Dashboard](https://github.com/chaurasiaakrish/Retail-Analytics-Dashboard)**  
+  *Analyzed **10,000+ retail transaction records** using SQL and Python (EDA) to model customer purchasing patterns and optimize sales performance.*
 
-🎓 **Student Performance Analytics**
-- Performed data cleaning, preprocessing, EDA, and visualization using Python.
+* 📦 **[Supply Chain Performance Dashboard](https://github.com/chaurasiaakrish/Supply-Chain-Analysis)**  
+  *Built an interactive Google Sheets analytics system analyzing **2,500+ records** to monitor 5 core logistics KPIs (Shipping Cost, Delay Rate, Delivery Performance).*
 
-🛒 **Retail Analytics Dashboard** *(In Progress)*
-- Developing an end-to-end analytics dashboard using SQL, Python, Pandas, and Power BI.
-
----
-
-## 🏆 Achievements
-
-- ⭐⭐⭐ Python – HackerRank
-- ⭐⭐⭐ SQL – HackerRank
-- 💻 Solved 200+ DSA problems on CodeChef & LeetCode
-- 🥈 Runner-up – Best Speaker, Youth Parliament (FESTIN-o-BEATS 2025)
+* 🎓 **[Student Performance Analytics](https://github.com/chaurasiaakrish/Student-Performance-Analytics)**  
+  *Executed data preprocessing, outlier detection, and statistical EDA in Python to evaluate academic outcome trends.*
 
 ---
 
-## 📫 Connect with Me
+### 🏆 Achievements & Badges
 
-- 💼 LinkedIn: https://linkedin.com/in/akrishchaurasia
-- 💻 GitHub: https://github.com/chaurasiaakrish
-- 📧 Email: akrishchaurasia03@gmail.com
+- 🐍 **3★ Python** on HackerRank | 🗄️ **3★ SQL** on HackerRank
+- 💻 **200+ DSA Problems** Solved (LeetCode & CodeChef)
+- 🥈 **Runner-up Best Speaker** — Youth Parliament (FESTIN-o-BEATS 2025)
+
+---
+
+### 📫 Connect with Me
+
+💼 **LinkedIn:** [linkedin.com/in/akrishchaurasia](https://linkedin.com/in/akrishchaurasia)  
+📧 **Email:** [akrishchaurasia03@gmail.com](mailto:akrishchaurasia03@gmail.com)
