@@ -43,7 +43,7 @@
 
 - 🐍 **3★ Python** on HackerRank | 🗄️ **3★ SQL** on HackerRank
 - 💻 **200+ DSA Problems** Solved (LeetCode & CodeChef)
-- 🥈 **Runner-up Best Speaker** — Youth Parliament (FESTIN-o-BEATS 2025)
+- 🥈 **Runner-up Best Speaker** — Youth Parliament (FESTIN-O-BEATS 2025)
 
 ---
 
