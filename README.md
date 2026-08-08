@@ -24,6 +24,8 @@ Analytics Career Connect | June 2026 – Present
 - Mentoring interns and reviewing their work  
 - Working on EDA, dashboards, and business insights  
 
+---
+
 ### 🛠️ Tech Stack
 
 - **Languages & Querying:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), SQL
