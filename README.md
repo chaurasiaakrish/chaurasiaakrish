@@ -98,11 +98,15 @@ I am a data-focused problem solver passionate about transforming raw, high-volum
 ---
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chaurasiaakrish&show_icons=true&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chaurasiaakrish&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=chaurasiaakrish&layout=compact&theme=tokyonight" />
+</p>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=chaurasiaakrish&layout=compact&theme=tokyonight" />
-
-<img src="https://streak-stats.demolab.com?user=chaurasiaakrish&theme=tokyonight" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=chaurasiaakrish&theme=tokyonight" />
+</p>
 
 ---
 
