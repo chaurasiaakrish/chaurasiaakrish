@@ -96,6 +96,7 @@ I am a data-focused problem solver passionate about transforming raw, high-volum
 - 🥈 Runner-up – Best Speaker (Youth Parliament 2025)  
 
 ---
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chaurasiaakrish&show_icons=true&theme=tokyonight" />
 
 <img src="https://streak-stats.demolab.com?user=chaurasiaakrish&theme=tokyonight" />
 ---
