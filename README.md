@@ -99,10 +99,9 @@ I am a data-focused problem solver passionate about transforming raw, high-volum
 
 ## 📊 GitHub Stats
 
-![Akrish's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaurasiaakrish&show_icons=true&theme=tokyonight&cache_seconds=1800)
+<img src="https://github-readme-stats.vercel.app/api?username=chaurasiaakrish&show_icons=true&theme=tokyonight" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaurasiaakrish&layout=compact&theme=tokyonight)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaurasiaakrish&layout=compact&theme=tokyonight" />
 ---
 
 ## 📫 Connect with Me
