@@ -97,11 +97,7 @@ I am a data-focused problem solver passionate about transforming raw, high-volum
 
 ---
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=chaurasiaakrish&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaurasiaakrish&layout=compact&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=chaurasiaakrish&theme=tokyonight" />
 ---
 
 ## 📫 Connect with Me
