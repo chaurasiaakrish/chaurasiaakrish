@@ -114,7 +114,7 @@ Analytics Career Connect | June 2026 – Present
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/akrishchaurasia">
+  <a href="www.linkedin.com/in/akrish-chaurasia-598a1732a">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:akrishchaurasia03@gmail.com">
