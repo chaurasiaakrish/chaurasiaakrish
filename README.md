@@ -1,7 +1,7 @@
 # Hi 👋, I'm Akrish Chaurasia
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI;Building+Data+Pipelines+%26+Dashboards;Turning+Data+into+Business+Insights" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI;Building+Data+Pipelines+%26+Dashboards;Turning+Data+into+Business+Insights" />
 </p>
 
 ---
