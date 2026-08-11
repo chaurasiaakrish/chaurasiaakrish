@@ -88,14 +88,6 @@ Analytics Career Connect | June 2026 – Present
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=chaurasiaakrish&theme=tokyonight" />
-</p>
-
----
-
 ## 🏆 Achievements
 
 - 🐍 3★ Python – HackerRank  
@@ -103,7 +95,7 @@ Analytics Career Connect | June 2026 – Present
 - 💻 200+ DSA Problems Solved  
 - 🥈 Runner-up – Youth Parliament 2025  
 
----
+--
 
 ## 📫 Connect with Me
 
