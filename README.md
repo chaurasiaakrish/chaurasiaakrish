@@ -91,12 +91,6 @@ Analytics Career Connect | June 2026 – Present
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chaurasiaakrish&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=chaurasiaakrish&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=chaurasiaakrish&theme=tokyonight" />
 </p>
 
