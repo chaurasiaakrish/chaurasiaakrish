@@ -1,113 +1,108 @@
-# Hi 👋, I'm Akrish Chaurasia
+# Hi 👋 I'm Akrish Chaurasia
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI;Building+Data+Pipelines+%26+Dashboards;Turning+Data+into+Business+Insights" />
+### Data Analytics • SQL • Python • DSA • Machine Learning
+
+I build data-driven projects, solve DSA problems, and create educational content on YouTube to help students learn SQL & Data Analytics.
+
+<p align="left">
+  <a href="https://www.youtube.com/@akrishchaurasia">
+    <img src="https://img.shields.io/badge/YouTube-Akrish%20Chaurasia-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://github.com/chaurasiaakrish">
+    <img src="https://img.shields.io/badge/GitHub-chaurasiaakrish-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/akrishchaurasia">
+    <img src="https://img.shields.io/badge/LinkedIn-Akrish%20Chaurasia-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 📊 Data Analyst Team Lead (Part-Time) at Analytics Career Connect  
-- 👥 Leading interns & working on real-world analytics projects  
-- 📈 Building end-to-end data pipelines & dashboards  
-- 🧠 Strong in SQL, Python, EDA & Business Insights  
-- 🚀 Exploring Data Engineering & Machine Learning  
+- 📊 Data Analyst Team Lead (Part-Time) @ Analytics Career Connect
+- 🐍 Python | SQL | Pandas | NumPy | Power BI
+- 💻 Solved 200+ DSA problems
+- 🎥 Creating SQL & DSA tutorials on YouTube
+- 🌱 Currently learning Data Engineering & Machine Learning
 
 ---
 
-## 💼 Experience
+## 🛠 Tech Stack
 
-**🏢 Data Analyst Team Lead (Part-Time)**  
-Analytics Career Connect | June 2026 – Present  
+**Languages**
 
-- Leading analytics tasks & coordinating with team  
-- Mentoring interns and reviewing their work  
-- Performing EDA, data cleaning & dashboard development  
-- Delivering insights for decision-making  
+`Python` `SQL` `Java`
 
----
+**Data Analytics**
 
-## 📊 Impact
+`Pandas` `NumPy` `Matplotlib` `Power BI`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Records%20Processed-100K%2B-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DSA%20Problems-200%2B-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Dashboards-Built-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Team-Lead-purple?style=for-the-badge" />
-</p>
+**Tools**
 
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,linux" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi" />
-  <img src="https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel" />
-  <img src="https://img.shields.io/badge/Pandas-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NumPy-orange?style=for-the-badge" />
-</p>
+`MySQL` `Git` `GitHub` `Jupyter Notebook`
 
 ---
 
 ## 📂 Featured Projects
 
-### 🏏 Real-Time Cricket Analytics Pipeline  
-🔗 https://github.com/chaurasiaakrish/Real-Time-Cricket-Match-Analytics-Pipeline  
+### 🏏 Real-Time Cricket Analytics Pipeline
+Live ETL pipeline using APIs to process cricket match data and generate real-time insights.
 
-- Built real-time ETL pipeline using APIs  
-- Processed live sports data & generated insights  
-
----
-
-### 🛒 Retail Analytics Dashboard  
-🔗 https://github.com/chaurasiaakrish/Retail-Analytics-Dashboard  
-
-- Analyzed **10,000+ transactions**  
-- Identified customer behavior & sales patterns  
+🔗 https://github.com/chaurasiaakrish/Real-Time-Cricket-Match-Analytics-Pipeline
 
 ---
 
-### 📦 Supply Chain Dashboard  
-🔗 https://github.com/chaurasiaakrish/Supply-Chain-Analysis  
+### 🛒 Retail Analytics Dashboard
+Analyzed 10,000+ retail transactions using SQL & Python to uncover customer behavior and sales trends.
 
-- Built KPI dashboard for logistics tracking  
-- Analyzed **2,500+ records**  
+🔗 https://github.com/chaurasiaakrish/Retail-Analytics-Dashboard
 
 ---
 
-### 🎓 Student Performance Analytics  
-🔗 https://github.com/chaurasiaakrish/Student-Performance-Analytics  
+### 📦 Supply Chain Analysis
+Interactive dashboard for logistics KPIs and operational performance across 2,500+ records.
 
-- Performed EDA & statistical analysis  
-- Identified academic performance trends  
+🔗 https://github.com/chaurasiaakrish/Supply-Chain-Analysis
+
+---
+
+### 🎓 Student Performance Analytics
+Exploratory Data Analysis and statistical insights on academic performance.
+
+🔗 https://github.com/chaurasiaakrish/Student-Performance-Analytics
+
+---
+
+## 🎥 YouTube
+
+I publish beginner-friendly tutorials on:
+
+- SQL (Beginner → Advanced)
+- DSA Pattern Series
+- LeetCode & GFG Solutions
+- Data Analytics Projects
+
+▶️ **YouTube:** https://www.youtube.com/@akrishchaurasia
 
 ---
 
 ## 🏆 Achievements
 
-- 🐍 3★ Python – HackerRank  
-- 🗄️ 3★ SQL – HackerRank  
-- 💻 200+ DSA Problems Solved  
-- 🥈 Runner-up – Youth Parliament 2025  
-
---
-
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="www.linkedin.com/in/akrish-chaurasia-598a1732a">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:akrishchaurasia03@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+- 🐍 HackerRank Python ⭐⭐⭐
+- 🗄️ HackerRank SQL ⭐⭐⭐
+- 💻 200+ DSA Problems Solved
+- 🥈 Runner-up — Youth Parliament 2025
 
 ---
 
-⭐ **Always learning. Always building. Always improving.**
+## 📈 2026 Goals
+
+- ✅ 500+ DSA Problems
+- ✅ 25+ Data Projects
+- ✅ 100 YouTube Tutorials
+- ✅ Become Placement Ready
+
+---
+
+### ⭐ Code • Analyze • Learn • Solve
