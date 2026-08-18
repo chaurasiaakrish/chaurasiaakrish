@@ -62,15 +62,13 @@
 # 📈 GitHub Analytics
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=chaurasiaakrish&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=chaurasiaakrish&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=chaurasiaakrish&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://streak-stats.demolab.com?user=chaurasiaakrish&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaurasiaakrish&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaurasiaakrish&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
