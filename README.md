@@ -11,7 +11,7 @@ I build data-driven projects, solve DSA problems, and create educational content
   <a href="https://github.com/chaurasiaakrish">
     <img src="https://img.shields.io/badge/GitHub-chaurasiaakrish-181717?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://www.linkedin.com/in/akrishchaurasia">
+  <a href="https://www.linkedin.com/in/akrish-chaurasia-598a1732a">
     <img src="https://img.shields.io/badge/LinkedIn-Akrish%20Chaurasia-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
