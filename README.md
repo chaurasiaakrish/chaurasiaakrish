@@ -2,6 +2,12 @@
 
 ### Data Analytics • SQL • Python • DSA • Machine Learning
 
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chaurasiaakrish&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
+</p>
+
 I build data-driven projects, solve DSA problems, and create educational content on YouTube to help students learn SQL & Data Analytics.
 
 <p align="left">
