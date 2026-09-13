@@ -21,7 +21,11 @@ content around SQL, DSA, and Data Analytics on YouTube.
   <a href="https://github.com/chaurasiaakrish">
     <img src="https://img.shields.io/badge/GitHub-chaurasiaakrish-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+   <a href="mailto:akrishchaurasia03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
@@ -258,24 +262,6 @@ I create beginner-friendly content focused on **SQL, DSA and Data Analytics**.
 - 🎯 Strengthen Data Engineering fundamentals
 - 🎯 Build stronger Machine Learning foundations
 - 🎯 Become placement-ready for Data Analyst / Data-related roles
-
----
-
-# 📫 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/akrishchaurasia">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://www.youtube.com/@akrishchaurasia">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-
-  <a href="mailto:akrishchaurasia03@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
