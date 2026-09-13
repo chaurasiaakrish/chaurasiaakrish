@@ -242,12 +242,14 @@ analytical thinking.
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white)
 
-### 📈 Data & Business Skills
+### 📊 Analytics Capabilities
 
- Data Cleaning` `Data Preprocessing` `Exploratory Data Analysis (EDA)`
-`Data Visualization` `Dashboard Development` `KPI Analysis`
-`Data Masking` `Business Insights` `Data Privacy`
-
+- **Data Preparation:** Data Cleaning • Data Preprocessing • ETL/ELT
+- **Analysis:** Exploratory Data Analysis (EDA) • Statistical Analysis • KPI Analysis
+- **Visualization:** Data Visualization • Dashboard Development • Business Reporting
+- **Data Management:** SQL Querying • Data Privacy • PII Data Masking
+- **Business Focus:** Business Insights • Performance Analysis • Stakeholder Reporting
+  
 ---
 
 # 🎥 YouTube
@@ -291,6 +293,17 @@ I create beginner-friendly content focused on **SQL, DSA and Data Analytics**.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chaurasiaakrish&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=chaurasiaakrish&theme=tokyonight&hide_border=false"
+    alt="Akrish's GitHub Streak"
+  />
 </p>
 
 ---
