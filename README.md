@@ -209,7 +209,6 @@ analytical thinking.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 ### 📊 Data Analytics & Visualization
 
@@ -280,9 +279,9 @@ I create beginner-friendly content focused on **SQL, DSA and Data Analytics**.
 
 # 📈 2026 Goals
 
-- 🎯 Reach **500+ DSA problems**
+- 🎯 Reach **250+ DSA problems**
 - 🎯 Build **25+ meaningful data projects**
-- 🎯 Publish **100 SQL & DSA tutorials**
+- 🎯 Publish **100+ SQL & DSA tutorials**
 - 🎯 Strengthen Data Engineering fundamentals
 - 🎯 Build stronger Machine Learning foundations
 - 🎯 Become placement-ready for Data Analyst / Data-related roles
