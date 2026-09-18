@@ -21,9 +21,6 @@ content around SQL, DSA, and Data Analytics on YouTube.
   <a href="https://github.com/chaurasiaakrish">
     <img src="https://img.shields.io/badge/GitHub-chaurasiaakrish-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-   <a href="akrishchaurasia03@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </p>
 
 
