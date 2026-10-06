@@ -53,9 +53,9 @@ technical foundation needed to work with data from ingestion to insight.
 
 ## 💼 Experience
 
-### Data Analyst Team Lead — Part-Time
+### Data and Business Analyst Team Lead Intern — Part-Time
 
-**Analytics Career Connect | June 2026 – Present**
+**Analytics Career Connect | April 2026 – September 2026**
 
 - Lead and coordinate data analytics tasks within the team
 - Mentor interns and review their work
