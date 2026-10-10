@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chaurasiaakrish&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=chaurasiaakrish&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -259,30 +259,6 @@ I create beginner-friendly technical content to explain concepts through practic
 
 ---
 
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/akrishchaurasia">
-    <img src="https://img.shields.io/badge/LinkedIn-Akrish%20Chaurasia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.youtube.com/@akrishchaurasia">
-    <img src="https://img.shields.io/badge/YouTube-Akrish%20Chaurasia-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="mailto:akrishchaurasia03@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chaurasiaakrish&label=Profile%20Views&color=0e75b6&style=flat" alt="Akrish's Profile Views"/>
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -290,7 +266,3 @@ I create beginner-friendly technical content to explain concepts through practic
 </p>
 
 ---
-
-<p align="center">
-  <i>⭐ Code • Analyze • Learn • Solve • Repeat</i>
-</p>
