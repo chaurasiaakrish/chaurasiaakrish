@@ -1,215 +1,185 @@
-# Hi 👋 I'm Akrish Chaurasia
+<!-- ==================== HEADER ==================== -->
 
-### Data Analyst | Python • SQL • Power BI • Machine Learning
+<h1 align="center">Hi 👋, I'm Akrish Chaurasia</h1>
 
-I build data-driven projects that turn raw datasets into meaningful insights,
-dashboards, and analytical solutions.
+<h3 align="center">
+  Data Analytics • Python • SQL • Business Intelligence • Machine Learning
+</h3>
 
-I'm currently pursuing B.Tech in Computer Science & Engineering and working
-as a **Data Analyst Team Lead (Part-Time)** at **Analytics Career Connect**.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chaurasiaakrish&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-I also document my learning through GitHub and create beginner-friendly
-content around SQL, DSA, and Data Analytics on YouTube.
-
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/akrishchaurasia">
-    <img src="https://img.shields.io/badge/LinkedIn-Akrish%20Chaurasia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  
   <a href="https://www.youtube.com/@akrishchaurasia">
-    <img src="https://img.shields.io/badge/YouTube-Akrish%20Chaurasia-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-  
   <a href="https://github.com/chaurasiaakrish">
-    <img src="https://img.shields.io/badge/GitHub-chaurasiaakrish-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  
 </p>
 
 ---
 
 ## 🚀 About Me
 
-My primary focus is **Data Analytics**, with an interest in building the
-technical foundation needed to work with data from ingestion to insight.
+I'm a final-year B.Tech Computer Science & Engineering student at **ABESIT**, graduating in 2027, with a strong interest in Data Analytics, Business Intelligence, and Data Science.
 
-### What I work with
+I enjoy transforming raw data into meaningful insights through Python, SQL, exploratory data analysis, and interactive dashboards. My experience includes analytics projects, team coordination, data quality, and business reporting.
 
-- 📊 **Data Analytics:** Data cleaning, preprocessing, EDA, visualization,
-  KPI analysis and business insights
-- 🐍 **Python:** Pandas, NumPy, Matplotlib, Seaborn and Scikit-learn
-- 🗄️ **SQL:** Data querying, filtering, aggregation, joins and analytical
-  problem solving
-- 📈 **Business Intelligence:** Power BI, Excel and Google Sheets
-- 🔄 **Data Engineering:** Currently learning ETL/ELT concepts and
-  data pipeline workflows
-- 🤖 **Machine Learning:** Currently building my fundamentals through
-  hands-on practice and experimentation
-- 💻 **Problem Solving:** 200+ DSA problems solved across LeetCode and CodeChef
-- 🎥 **Knowledge Sharing:** Creating SQL, DSA and Data Analytics content
-  on YouTube
+- 📊 **Analytics:** Data cleaning, EDA, KPI analysis, and dashboard development
+- 🐍 **Python:** Pandas, NumPy, Matplotlib, and Seaborn
+- 🗄️ **SQL:** Querying, joins, aggregations, and analytical problem-solving
+- 📈 **Business Intelligence:** Power BI, Tableau, Excel, and Google Sheets
+- 👥 **Leadership:** Experience coordinating analytics tasks and reviewing team deliverables
+- 🤖 **Machine Learning:** Building fundamentals through hands-on practice
+- 🎥 **Content Creation:** Publishing beginner-friendly SQL, Python, and DSA tutorials
+
+My goal is to keep building practical projects that demonstrate both technical ability and business understanding.
 
 ---
 
 ## 💼 Experience
 
-### Data and Business Analyst Team Lead Intern — Part-Time
+### Data & Business Analyst Team Lead (Intern)
+**Analytics Career Connect (ACC)** | Remote  
+*June 2026 – September 2026*
 
-**Analytics Career Connect | April 2026 – September 2026**
+- Coordinated analytics tasks and supported timely project delivery.
+- Reviewed junior team members' work and provided constructive feedback.
+- Mentored fellow interns and supported task planning and execution.
+- Helped improve project delivery timelines by **25%** through coordination and peer code reviews.
+- Established structured team updates and communication practices.
 
-- Lead and coordinate data analytics tasks within the team
-- Mentor interns and review their work
-- Contribute to data analysis, EDA and dashboard development
-- Support the team in transforming data into useful business insights
-- Collaborate with team members to improve project execution and productivity
+### Data Analyst — Job Simulation
+**Commonwealth Bank | Forage**  
+*February 2026*
 
----
+- Worked on data management and analytics tasks involving large customer datasets.
+- Practiced data extraction and processing using Python and Pandas.
+- Explored approaches to anonymizing sensitive customer information through PII masking.
+- Developed an understanding of data quality, privacy, and business-focused analysis.
 
-## 🔭 What I'm Currently Working On
+### Junior Data Analyst
+**IdeationX** | Ghaziabad, India  
+*June 2024 – December 2024*
 
-I'm continuously building and improving my practical skills through projects,
-problem solving and technical content.
-
-- 📊 Building end-to-end Data Analytics projects
-- 🐍 Strengthening Python for data analysis and automation
-- 🗄️ Improving SQL and analytical problem solving
-- 📈 Building interactive dashboards with Power BI
-- 🔄 Learning ETL/ELT and Data Engineering concepts
-- 🤖 Building Machine Learning fundamentals through hands-on practice
-- 🎥 Publishing SQL and DSA tutorials on YouTube
-- 🌱 Learning by building, documenting and improving projects
-
----
-
-# 📂 Featured Projects
-
-## 🏏 Real-Time Cricket Match Analytics Pipeline
-
-An end-to-end analytics pipeline designed to process live cricket match data
-through APIs and transform it into useful analytical outputs.
-
-### What I worked on
-
-- Consumed cricket data through REST APIs
-- Processed structured JSON data using Python
-- Cleaned and transformed data using Pandas
-- Built analytical visualizations using Matplotlib
-- Structured the project as an end-to-end data pipeline
-
-**Tech:** `Python` `REST APIs` `Pandas` `Matplotlib`
-
-🔗 [View Repository](https://github.com/chaurasiaakrish/Real-Time-Cricket-Match-Analytics-Pipeline)
+- Developed a Power BI dashboard for ICC Men's Cricket World Cup 2023 performance reporting.
+- Used Power Query and DAX to build and track **15+ tournament KPIs**.
+- Worked on data cleaning, transformation, and visualization.
+- Supported reporting improvements through dashboard development and analytics workflows.
 
 ---
 
-## 🛒 Retail Analytics Dashboard
+## 📂 Featured Projects
 
-Analyzed **10,000+ retail transaction records** to understand customer
-purchasing behaviour and sales performance.
+### 🏏 Real-Time Cricket Match Analytics Pipeline
 
-### What I worked on
+An end-to-end project for extracting, processing, and visualizing cricket match data using APIs.
 
-- Used SQL to query and analyze transaction data
-- Performed exploratory data analysis using Python
-- Investigated customer purchasing patterns
-- Examined sales trends and business performance
-- Developed the project as an end-to-end analytics workflow
+**Key work**
+- Retrieved structured match data through REST APIs.
+- Processed JSON responses using Python and Pandas.
+- Analyzed batting, bowling, and team performance.
+- Created visualizations to communicate match insights.
 
-**Tech:** `SQL` `Python` `Pandas` `EDA`
+**Tech stack:** Python · Pandas · NumPy · Matplotlib · REST APIs
 
-🔗 [View Repository](https://github.com/chaurasiaakrish/Retail-Analytics-Dashboard)
-
----
-
-## 📦 Supply Chain Analysis
-
-An interactive analytics dashboard built to examine logistics and operational
-performance across **2,500+ records**.
-
-### Key focus areas
-
-- Shipping cost
-- Delay rate
-- Delivery performance
-- Operational KPIs
-- Business performance monitoring
-
-The project focuses on converting raw supply-chain data into a dashboard
-that makes important operational metrics easier to understand.
-
-**Tech:** `Google Sheets` `Excel` `Data Analysis` `Dashboarding`
-
-🔗 [View Repository](https://github.com/chaurasiaakrish/Supply-Chain-Analysis)
+🔗 [View Project on GitHub](https://github.com/chaurasiaakrish/Real-Time-Cricket-Match-Analytics-Pipeline)
 
 ---
 
-## 🎓 Student Performance Analytics
+### 🛒 Retail Analytics Dashboard
 
-A Python-based exploratory data analysis project focused on understanding
-patterns in academic performance.
+An analytics project focused on retail sales, customer behaviour, and business performance across **10,000+ transactions**.
 
-### What I worked on
+**Key work**
+- Queried and analyzed retail data using SQL.
+- Cleaned and preprocessed data using Python and Pandas.
+- Explored customer purchasing patterns and sales trends.
+- Built a workflow for examining business performance and profitability.
 
-- Data cleaning and preprocessing
-- Exploratory Data Analysis
-- Outlier detection
-- Statistical analysis
-- Data visualization
-- Identifying trends in academic outcomes
+**Tech stack:** SQL · Python · Pandas · Tableau · DBeaver
 
-**Tech:** `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
-
-🔗 [View Repository](https://github.com/chaurasiaakrish/Student-Performance-Analytics)
+🔗 [View Project on GitHub](https://github.com/chaurasiaakrish/Retail-Analytics-Dashboard)
 
 ---
 
-# 🧪 Learning & Practice
+### 📦 Supply Chain Analysis Dashboard
 
-Not everything I build is intended to be a polished portfolio project.
-Some repositories document my learning process and technical practice.
+An interactive Google Sheets dashboard built to analyze **2,500+ supply chain records** and monitor logistics performance.
 
-## 🤖 Machine Learning
+**Key metrics**
+- Total orders and shipping costs
+- Average delivery time
+- Delivery delays and performance
+- Supplier efficiency
+- Transportation mode analysis
 
-Currently building my Machine Learning fundamentals through hands-on
-notebooks and experimentation.
+**Key insight:** Supplier H recorded a **22.69% delay rate**, highlighting an area for further operational investigation.
 
-Topics and implementations will continue to grow as I learn:
+**Tech stack:** Google Sheets · Pivot Tables · Pivot Charts · Slicers · Data Analysis
 
-- Data preprocessing
+🔗 [View Project on GitHub](https://github.com/chaurasiaakrish/Supply-Chain-Analysis)
+
+---
+
+### 🎓 Student Performance Analytics
+
+A Python-based exploratory data analysis project focused on examining academic performance.
+
+**Key work**
+- Cleaned and preprocessed datasets.
+- Explored distributions and potential outliers.
+- Used statistical analysis and visualization to identify patterns.
+- Investigated trends in academic outcomes.
+
+**Tech stack:** Python · Pandas · NumPy · Matplotlib · Seaborn
+
+🔗 [View Project on GitHub](https://github.com/chaurasiaakrish/Student-Performance-Analytics)
+
+---
+
+## 🧪 Learning & Practice
+
+I use separate repositories to document my learning process, experiment with new concepts, and improve through hands-on implementation.
+
+### 🤖 Machine Learning
+
+Currently strengthening my understanding of Machine Learning through Python notebooks and practical experimentation.
+
+Areas of practice include:
+- Data preprocessing and preparation
 - Exploratory analysis
 - Feature preparation
-- Model training
-- Model evaluation
+- Model training and evaluation
 - Machine Learning fundamentals
 
-🔗 [View Machine Learning Repository](https://github.com/chaurasiaakrish/Machine-Learning)
+🔗 [Explore My Machine Learning Repository](https://github.com/chaurasiaakrish/Machine-Learning)
 
----
+### 💻 DSA & Problem Solving
 
-## 💻 DSA & Problem Solving
+I practice data structures and algorithms to improve my programming fundamentals and analytical thinking.
 
-I use problem solving to strengthen my programming fundamentals and
-analytical thinking.
+- Solved **200+ problems** across coding platforms.
+- Practicing problem-solving patterns and algorithmic approaches.
+- Learning to write clearer and more efficient solutions.
 
-- **200+ problems solved**
-- LeetCode
-- CodeChef
-- NeetCode
-- Python problem solving
-
-🔗 [LeetCode](https://leetcode.com/u/akrishchaurasia/)
-🔗 [CodeChef](https://www.codechef.com/users/akrish_abesit)
+🔗 [LeetCode](https://leetcode.com/u/akrishchaurasia/) · [CodeChef](https://www.codechef.com/users/akrish_abesit)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming & Databases
+### Programming & Databases
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### 📊 Data Analytics & Visualization
+### Data Analytics & Visualization
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -220,17 +190,17 @@ analytical thinking.
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)
 
-### 🤖 Machine Learning
+### Machine Learning
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-### 🔄 Data Engineering & ETL
+### Data Engineering & APIs
 
 ![Power Query](https://img.shields.io/badge/Power%20Query-F2C811?style=flat-square&logo=microsoft&logoColor=black)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square)
-![ETL](https://img.shields.io/badge/ETL%2FELT-4B5563?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square)
+![ETL/ELT](https://img.shields.io/badge/ETL%2FELT-4B5563?style=flat-square)
 
-### 🧰 Development & Analytics Tools
+### Development Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -238,59 +208,77 @@ analytical thinking.
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=flat-square)
 
 ### 📊 Analytics Capabilities
 
-- **Data Preparation:** Data Cleaning • Data Preprocessing • ETL/ELT
-- **Analysis:** Exploratory Data Analysis (EDA) • Statistical Analysis • KPI Analysis
-- **Visualization:** Data Visualization • Dashboard Development • Business Reporting
-- **Data Management:** SQL Querying • Data Privacy • PII Data Masking
-- **Business Focus:** Business Insights • Performance Analysis • Stakeholder Reporting
-  
----
-
-# 🎥 YouTube
-
-I create beginner-friendly content focused on **SQL, DSA and Data Analytics**.
-
-### Topics I cover
-
-- SQL concepts and problem solving
-- SQL interview preparation
-- DSA patterns
-- LeetCode & GeeksforGeeks solutions
-- Data Analytics projects
-- My learning journey
-
-🎥 [Visit my YouTube Channel](https://www.youtube.com/@akrishchaurasia)
+| Area | Skills |
+|---|---|
+| Data Preparation | Data cleaning, preprocessing, ETL workflows |
+| Analysis | EDA, statistical analysis, KPI analysis |
+| Visualization | Interactive dashboards, data visualization, business reporting |
+| Data Management | SQL querying, data validation, PII masking |
+| Business Skills | Business insights, stakeholder communication, team coordination |
 
 ---
 
-# 🏆 Achievements
+## 🎥 YouTube & Knowledge Sharing
 
-- 🐍 **3★ Python** — HackerRank
+I create beginner-friendly technical content to explain concepts through practical examples and problem-solving.
+
+**Topics I cover**
+- SQL tutorials and interview preparation
+- Data Structures & Algorithms
+- Python and programming fundamentals
+- Data Analytics concepts and projects
+- Coding problem explanations
+
+▶️ [Visit My YouTube Channel](https://www.youtube.com/@akrishchaurasia)
+
+---
+
+## 🏆 Achievements
+
+- 🐍 **2★ Python** — HackerRank
 - 🗄️ **3★ SQL** — HackerRank
-- 💻 **200+ DSA Problems Solved** — LeetCode & CodeChef
-- 🥈 **Runner-up — Best Speaker**, Youth Parliament 2025
+- 💻 **200+ DSA problems solved** — LeetCode & CodeChef
+- 🥈 **Runner-up, Best Speaker** — Youth Parliament, FESTIN-O-BEATS 2025
+- ♟️ **1100+ Rapid Chess rating** — Chess.com
+- 🎥 Technical content creator focused on SQL and DSA education
 
 ---
 
-# 📈 2026 Goals
+## 🎯 Current Focus
 
-- 🎯 Reach **250+ DSA problems**
-- 🎯 Build **25+ meaningful data projects**
-- 🎯 Publish **100+ SQL & DSA tutorials**
-- 🎯 Strengthen Data Engineering fundamentals
-- 🎯 Build stronger Machine Learning foundations
-- 🎯 Become placement-ready for Data Analyst / Data-related roles
+- Strengthening advanced SQL and Python for analytics.
+- Building end-to-end projects with clear documentation.
+- Improving dashboard design and business storytelling.
+- Developing a solid foundation in statistics and Machine Learning.
+- Learning data engineering concepts and ETL workflows.
+- Creating useful technical tutorials and sharing my learning journey.
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/akrishchaurasia">
+    <img src="https://img.shields.io/badge/LinkedIn-Akrish%20Chaurasia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.youtube.com/@akrishchaurasia">
+    <img src="https://img.shields.io/badge/YouTube-Akrish%20Chaurasia-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="mailto:akrishchaurasia03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chaurasiaakrish&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=chaurasiaakrish&label=Profile%20Views&color=0e75b6&style=flat" alt="Akrish's Profile Views"/>
 </p>
 
 ---
@@ -298,12 +286,11 @@ I create beginner-friendly content focused on **SQL, DSA and Data Analytics**.
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=chaurasiaakrish&theme=tokyonight&hide_border=false"
-    alt="Akrish's GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com/?user=chaurasiaakrish&theme=tokyonight&hide_border=false" alt="Akrish's GitHub Streak"/>
 </p>
 
 ---
 
-### ⭐ Code • Analyze • Learn • Solve
+<p align="center">
+  <i>⭐ Code • Analyze • Learn • Solve • Repeat</i>
+</p>
