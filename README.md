@@ -10,10 +10,23 @@
   <img src="https://komarev.com/ghpvc/?username=chaurasiaakrish&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
+## 🤝 Connect With Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/akrishchaurasia/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/akrish-chaurasia/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
+  <a href="https://github.com/chaurasiaakrish" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
+  </a>
+  <a href="https://www.youtube.com/@akrishchaurasia" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe on YouTube" />
+  </a>
+</p>
+
+<p align="center">
+  Feel free to connect with me to discuss Data Analytics, Python, SQL, Machine Learning, and exciting technology projects.
+</p>
   <a href="https://www.youtube.com/@akrishchaurasia">
     <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
